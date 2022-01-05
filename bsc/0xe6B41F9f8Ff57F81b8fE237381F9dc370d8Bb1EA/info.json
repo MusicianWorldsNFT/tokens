@@ -1,0 +1,11 @@
+{
+ "name": "PIPA",
+ "website": "http://m.musicianworldsnft.com",
+ "description": "Unique governance token of MUCNFT music community.100% is obtained through liquidity, and the holder enjoys the ecological benefits of MUCNFT.",
+ "explorer": "https://bscscan.com/token/0xe6B41F9f8Ff57F81b8fE237381F9dc370d8Bb1EA",
+ "type": "BEP20",
+ "symbol": "PIPA",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xe6B41F9f8Ff57F81b8fE237381F9dc370d8Bb1EA"
+}
